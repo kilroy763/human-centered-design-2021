@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: black;
+    color: white;
+    font-size: 4em;
+
+}
+
+a:nth-child(1){
+    background-color: red;
+    float: left;
+    height: 100vh;
+    width: 20vw;
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    text-decoration: none;
+    color: white;
+}
+
+a:nth-child(2){
+    background-color: green;
+    float: right;
+    height: 100vh;
+    width: 20vw;
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    text-decoration: none;
+    color: white;
+}
+
+a:nth-child(1):focus{
+    background-color: orange;
+}
+
+a:nth-child(2):focus{
+    background-color: orange;
+}
+
+svg{
+    fill: red;
+}
+
+table{
+    margin: 0 auto;
+}

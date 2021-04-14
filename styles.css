@@ -15,7 +15,7 @@
 }
 
 body{
-    background-color: black;
+    background-color: #2d2d2d;
     color: white;
 
     font-family: 'webfontregular';
@@ -27,7 +27,7 @@ body{
     float: left;
     height: 75vh;
     font-size: 4em;
-    width: 10vw;
+    width: 3em;
     writing-mode: vertical-rl;
     text-orientation: upright;
     text-decoration: none;
@@ -42,7 +42,7 @@ body{
     float: right;
     height: 75vh;
     font-size: 4em;
-    width: 10vw;
+    width: 3em;
     writing-mode: vertical-rl;
     text-orientation: upright;
     text-decoration: none;
@@ -57,14 +57,16 @@ body{
     float: right;
     height: 75vh;
     font-size: 4em;
-    width: 10vw;
+    width: 3em;
     writing-mode: vertical-rl;
     text-orientation: upright;
     text-decoration: none;
-    color: white;
+    color: white;       
     border-radius:  20% 0 0 20%    ;
     padding-right: 2em;
     padding-top: 25vh;
+    position: fixed;
+    right: 0;
 }
 
 
@@ -84,7 +86,9 @@ body{
 
 
 svg{
-    fill: #B33F40;
+    fill: #3F7AB3;
+    max-width: 200px;
+    margin-left: 1em;
 }
 
 table{

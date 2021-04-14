@@ -1,49 +1,106 @@
+
+
 *{
     padding: 0;
     margin: 0;
+ 
+}
+
+@font-face {
+    font-family: 'webfontregular';
+    src:
+         url('fonts/Atkinson-bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 
 body{
     background-color: black;
     color: white;
-    font-size: 4em;
+
+    font-family: 'webfontregular';
 
 }
 
-a:nth-child(1){
-    background-color: red;
+.weer{
+    background-color: #B33F40;
     float: left;
-    height: 100vh;
-    width: 20vw;
+    height: 75vh;
+    font-size: 4em;
+    width: 10vw;
     writing-mode: vertical-rl;
     text-orientation: upright;
     text-decoration: none;
     color: white;
+    border-radius:0  20%  20%  0  ;
+    padding-right: 2em;
+    padding-top: 25vh;
 }
 
-a:nth-child(2){
-    background-color: green;
+.nieuws{
+    background-color: #3FB378 ;
     float: right;
-    height: 100vh;
-    width: 20vw;
+    height: 75vh;
+    font-size: 4em;
+    width: 10vw;
     writing-mode: vertical-rl;
     text-orientation: upright;
     text-decoration: none;
     color: white;
+    border-radius:  20% 0 0 20%    ;
+    padding-right: 2em;
+    padding-top: 25vh;
 }
 
-a:nth-child(1):focus{
-    background-color: orange;
+.terug{
+    background-color: #B33F40 ;
+    float: right;
+    height: 75vh;
+    font-size: 4em;
+    width: 10vw;
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    text-decoration: none;
+    color: white;
+    border-radius:  20% 0 0 20%    ;
+    padding-right: 2em;
+    padding-top: 25vh;
 }
 
-a:nth-child(2):focus{
-    background-color: orange;
+
+
+
+.terug:focus, 
+.weer:focus,
+.nieuws:focus{
+    background-color: #3F7AB3;
 }
+
+.terug:hover,
+.nieuws:hover,
+.weer:hover{
+    background-color: #3F7AB3 ;
+}
+
 
 svg{
-    fill: red;
+    fill: #B33F40;
 }
 
 table{
     margin: 0 auto;
+}
+
+table{
+    float: left;
+    text-align: left;
+    font-size: 3em;
+}
+
+td, th{
+    max-width: 400px;
+}
+
+td{
+    margin-left: 10%;
 }

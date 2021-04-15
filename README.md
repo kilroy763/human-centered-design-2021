@@ -31,7 +31,7 @@ Al mijn documentatie is [hier](https://github.com/kilroy763/human-centered-desig
 - [ ]  Donkere achtergrond
 - [ ]  Geen felle kleuren
 - [ ]  Chrome 250% inzoom
-- [ ]  Screenreaders accesible=
+- [ ]  Screenreaders accesible
 - [ ]  Windows pc 
 
 

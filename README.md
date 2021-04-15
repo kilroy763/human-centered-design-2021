@@ -27,5 +27,11 @@ https://kilroy763.github.io/human-centered-design-2021/
 ## Documentatie
 Al mijn documentatie is [hier](https://github.com/kilroy763/human-centered-design-2021/wiki/Human-Centered-Design---Roger) te vinden
 
+## Richtlijn voor het design
+[ ] Donkere achtergrond
+[ ] Geen felle kleuren
+[ ] Chrome 250% inzoom
+[ ] Screenreaders accesible=
+[ ] Windows pc 
 
 

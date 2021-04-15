@@ -26,7 +26,7 @@ body{
     background-color: #B33F40;
     float: left;
     height: 75vh;
-    font-size: 4em;
+    font-size: 2em;
     width: 3em;
     writing-mode: vertical-rl;
     text-orientation: upright;
@@ -34,14 +34,14 @@ body{
     color: white;
     border-radius:0  20%  20%  0  ;
     padding-right: 2em;
-    padding-top: 25vh;
+    padding-top: 10vh;
 }
 
 .nieuws{
     background-color: #3FB378 ;
     float: right;
     height: 75vh;
-    font-size: 4em;
+    font-size: 2em;
     width: 3em;
     writing-mode: vertical-rl;
     text-orientation: upright;
@@ -49,14 +49,14 @@ body{
     color: white;
     border-radius:  20% 0 0 20%    ;
     padding-right: 2em;
-    padding-top: 25vh;
+    padding-top: 10vh;
 }
 
 .terug{
     background-color: #B33F40 ;
     float: right;
     height: 75vh;
-    font-size: 4em;
+    font-size: 2em;
     width: 3em;
     writing-mode: vertical-rl;
     text-orientation: upright;
@@ -64,7 +64,7 @@ body{
     color: white;       
     border-radius:  20% 0 0 20%    ;
     padding-right: 2em;
-    padding-top: 25vh;
+    padding-top: 10vh;
     position: fixed;
     right: 0;
 }
@@ -72,13 +72,13 @@ body{
 
 .header{
     text-align: center;
-    font-size: 2em;
+    font-size: 1em;
     margin: 0 auto;
     width: 100%;
     display: block;
     text-decoration: none;
     color: white;
-    background-color: #3F7AB3;
+    background-color: #f5cb5c;
 }
 
 .terug:focus, 
@@ -107,7 +107,7 @@ table{
 table{
     float: left;
     text-align: left;
-    font-size: 3em;
+    font-size: 1em;
 }
 
 td, th{

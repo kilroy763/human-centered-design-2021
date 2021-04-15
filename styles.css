@@ -70,7 +70,16 @@ body{
 }
 
 
-
+.header{
+    text-align: center;
+    font-size: 2em;
+    margin: 0 auto;
+    width: 100%;
+    display: block;
+    text-decoration: none;
+    color: white;
+    background-color: #3F7AB3;
+}
 
 .terug:focus, 
 .weer:focus,

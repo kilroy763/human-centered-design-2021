@@ -69,6 +69,23 @@ body{
     right: 0;
 }
 
+.terug2{
+    background-color: #3FB378 ;
+    float: left;
+    height: 75vh;
+    font-size: 2em;
+    width: 3em;
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    text-decoration: none;
+    color: white;       
+    border-radius: 0 20%  20%  0   ;
+    padding-right: 2em;
+    padding-top: 10vh;
+    position: fixed;
+    left: 0;
+}
+
 
 .header{
     text-align: center;
@@ -78,26 +95,42 @@ body{
     display: block;
     text-decoration: none;
     color: white;
-    background-color: #f5cb5c;
+    background: rgb(63,179,120);
+    background: linear-gradient(90deg, rgba(63,179,120,1) 0%, rgba(179,63,64,1) 100%);
+    margin-bottom: 1em;
 }
 
 .terug:focus, 
+.terug2:focus,
 .weer:focus,
-.nieuws:focus{
-    background-color: #3F7AB3;
+.nieuws:focus,
+.header:focus{
+    background: #3F7AB3;
 }
 
 .terug:hover,
+.terug2:hover,
 .nieuws:hover,
-.weer:hover{
-    background-color: #3F7AB3 ;
+.weer:hover,
+.header:hover{
+    background: #3F7AB3 ;
 }
 
 
 svg{
-    fill: #3F7AB3;
+    fill: white;
     max-width: 200px;
     margin-left: 1em;
+}
+
+.zon{
+    fill: #F5CB5C;
+}
+
+
+
+.regen{
+    fill: #3F7AB3;
 }
 
 table{
@@ -116,4 +149,76 @@ td, th{
 
 td{
     margin-left: 10%;
+}
+
+button {
+    width: 500px;
+    height: 100px;
+}
+
+article {
+    max-width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+article h1{
+    background-color: #B33F40;
+    padding: 0.25em;
+    margin-top: 1em;
+}
+
+article h2{
+    background-color: #F5CB5C;
+    padding: 0.25em;
+    color: #2d2d2d;
+}
+article p {
+    background: rgb(63,122,179);
+    background: linear-gradient(183deg, rgba(63,122,179,1) 0%, rgba(179,63,133,1) 100%);
+    padding: 0.25em;
+}
+
+
+.textDuur{
+    
+  background-color: #B33F40;
+  width: 100px;
+  height: 75px;
+  position: fixed;
+  right: 0.5em;
+  top: 1em;
+  float: right;
+}
+
+article > h1 {
+    font-size: 1em;
+}
+
+.headerKleur{
+    background-color: #F5CB5C;
+    width: 100px;
+    height: 75px;
+    position: fixed;
+    right: 0.5em;
+    top: 2em;
+    float: right;
+
+
+}
+
+.textKleur{
+    background: rgb(63,122,179);
+    background: linear-gradient(183deg, rgba(63,122,179,1) 0%, rgba(179,63,133,1) 100%);
+    width: 100px;
+    height: 150px;
+    position: fixed;
+    right: 0.5em;
+    top: 5em;
+    float: right;
+}
+
+span {
+ font-size: 0.001em;
+ color: #B33F40;
 }

@@ -32,6 +32,16 @@ https://kilroy763.github.io/human-centered-design-2021/
 ## Documentatie
 Al mijn documentatie is [hier](https://github.com/kilroy763/human-centered-design-2021/wiki/Human-Centered-Design---Roger) te vinden
 
+## Exclusive Design Principles
+* Study Situation
+* Ignore Conventions
+* Prioritise Identity
+* Add Nonsense
+
+
+
+
+
 ## Richtlijn voor het design
 - [x]  Donkere achtergrond
 - [x]  Geen felle kleuren

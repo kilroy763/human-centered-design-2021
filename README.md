@@ -34,11 +34,11 @@ Al mijn documentatie is [hier](https://github.com/kilroy763/human-centered-desig
 
 ## Richtlijn voor het design
 - [x]  Donkere achtergrond
-- [ ]  Geen felle kleuren
-- [ ]  Chrome 250% inzoom
-- [ ]  Screenreaders accesible
-- [ ]  Windows pc 
-- [ ]  Duidelijk manier van navigeren
-- [ ]  Weer tabel moet te gebruiken zijn
-- [ ]  Artikel moet overzichtelijk zijn
+- [x]  Geen felle kleuren
+- [x]  Chrome 250% inzoom
+- [x]  Screenreaders accesible
+- [x]  Windows pc 
+- [x]  Duidelijk manier van navigeren
+- [x]  Weer tabel moet te gebruiken zijn
+- [x]  Artikel moet overzichtelijk zijn
 

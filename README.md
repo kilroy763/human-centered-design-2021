@@ -33,10 +33,17 @@ https://kilroy763.github.io/human-centered-design-2021/
 Al mijn documentatie is [hier](https://github.com/kilroy763/human-centered-design-2021/wiki/Human-Centered-Design---Roger) te vinden
 
 ## Exclusive Design Principles
-* Study Situation
-* Ignore Conventions
-* Prioritise Identity
-* Add Nonsense
+* Study Situation  
+In het geval van Roger moeten wij goed begrijpen hoe en wat. Wat voor ziekte heeft Roger, hoeveel kan hij nog zien. Wat vindt hij fijn en hoe kunnen wij zijn huidige situatie verbeteren. Dit moet van te voren worden opgesteld zodat er een zo goed mogelijke site voor Roger gemaakt kan worden.  
+
+* Ignore Conventions  
+Het web heeft vaak conventies waaraan gehouden wordt voor een goede site. Bijvoorbeeld dat de navigatie bovenaan moet staan. Ik breek hier bijvoorbeeld doorheen. Ik zet namenlijk de navigatie op een eigen pagina en zet de 2 navigatie opties groot links en rechts. Dit zie je nooit op een website terug. Ik zet ook bijvoorbeeld alle content links en rechts ( in de ooghoeken van Roger). Hierdoor kan hij er nog wel iets van oppakken. Dit zie je ook nooit terug op een website maar past perfect voor Roger.  
+
+* Prioritise Identity  
+De oplossing die gemaakt wordt is voor Roger. Hierom moet er aan hem voor inzichten gevraagd worden betreft design bijvoorbeeld of andere wensen die hij heeft. Zo heeft Roger tegen ons gezegd dat hij graag donkere kleuren ziet. Hierom heb ik de kleuren van de site zo donker mogelijk gemaakt en de kleuren die ik gebruik mat gemaakt. Hierdoor doen ze geen pijn aan zijn ogen. Dit is echt iets persoonlijks voor Roger wat hij wenst.  
+
+* Add Nonsense  
+Denk buiten de box, verzien iets origineels en voeg wat raars toe. Hierdoor krijg je vaak de beste ideeen. Dit kan ook ter oplossing zijn voor Roger. Ik heb hier niet echt gebruik van gemaakt omdat ik het al lastig vondt om een goed concept voor hem te verzinnen. Hierom heb ik het persoonlijk bij hem gelegd door bijvoorbeeld de tabel in te vullen met weer. Dit is handig voor hem want dan weet hij wanneer hij kan hardlopen.
 
 
 

@@ -16,7 +16,7 @@ In het vak Human Centered Design gaan we dingen ontwerpen voor echte mensen. Is 
 
 ### Ontwerpen met en voor echte mensen
 
-Voor dit vak krijg je een ontwerp-opdracht die je gaat maken voor 1 mens. Een echt mens. Je moet je ontwerp 3 keer testen. Door te testen en te itereren ga je je ontwerp verbeteren. Uiteindelijk heb je een ontwerp dat exclusief gemaakt is voor 1 persoon. Een _exclusive design_ ... Wie is deze persoon dan voor wie je dit gaat maken? Wat vindt deze persoon leuk of juist niet? En hoe bedient deze persoon een computer?
+Voor dit vak heb ik een ontwerp-opdracht gekregen die je gaat maken voor 1 mens. Een echt mens. ik moet mijn ontwerp 3 keer testen. Door te testen en te itereren ga ik mijn ontwerp verbeteren. Uiteindelijk heb ik een ontwerp dat exclusief gemaakt is voor 1 persoon. Een _exclusive design_ 
 
 ### Roger Ravelli
 #### Wie?

@@ -21,10 +21,13 @@ Voor dit vak krijg je een ontwerp-opdracht die je gaat maken voor 1 mens. Een ec
 ### Roger Ravelli
 Roger is 54 jaar en tien jaar geleden slechtziend geworden. Netvliesprobleem (iets ‘fout’ in een gen). Achter de ogen (macula). Daarvoor altijd kunnen zien. Kegeltjes sterven af (progressieve oogziekte). Rechteroog was 20% (toen ontdekte) en links 90/100%. Restvisus (niet blind). Niet alleen slecht zicht, maar ook erg vermoeiend. Wit scherm is bijvoorbeeld bijna niet te doen. Omgeving afhankelijk. Het verschilt erg (per jaar). Lezen, auto, mailtjes etc. moet allemaal met spraak (idee om iets met spraak te doen in de app?). Slechtziendheid verschilt heel erg per persoon.
 
-### Voor Roger ga ik een site maken die duidelijk het weer aantoont en het nieuws. Hierdoor weet hij of hij kan hardlopen en wat er allemaal gebeurd in de wereld.
+### Wat ga ik maken voor Roger?
+Voor Roger wil ik 3 manieren van interactie maken door gebruik te maken van zijn restvisus en zijn screenreader. Ik ga een overzichtelijke navigatie maken die hij kan gebruiken, een tabel met weer waarbij hij kan zien/horen wat voor weer het op een bepaalde dag wordt en een artikel waarbij hij kan zien / horen hoelang het artikel nog duurt.
+
 
 ## Live Link
 https://kilroy763.github.io/human-centered-design-2021/
+**DISCLAIMER, zet de live link pagina op 250% zoom voor perfecte perfomance**
 
 ## Documentatie
 Al mijn documentatie is [hier](https://github.com/kilroy763/human-centered-design-2021/wiki/Human-Centered-Design---Roger) te vinden

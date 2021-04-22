@@ -43,9 +43,9 @@ Het web heeft vaak conventies waaraan gehouden wordt voor een goede site. Bijvoo
 De oplossing die gemaakt wordt is voor Roger. Hierom moet er aan hem voor inzichten gevraagd worden betreft design bijvoorbeeld of andere wensen die hij heeft. Zo heeft Roger tegen ons gezegd dat hij graag donkere kleuren ziet. Hierom heb ik de kleuren van de site zo donker mogelijk gemaakt en de kleuren die ik gebruik mat gemaakt. Hierdoor doen ze geen pijn aan zijn ogen. Dit is echt iets persoonlijks voor Roger wat hij wenst.  
 
 * Add Nonsense  
-Denk buiten de box, verzien iets origineels en voeg wat raars toe. Hierdoor krijg je vaak de beste ideeen. Dit kan ook ter oplossing zijn voor Roger. Ik heb hier niet echt gebruik van gemaakt omdat ik het al lastig vondt om een goed concept voor hem te verzinnen. Hierom heb ik het persoonlijk bij hem gelegd door bijvoorbeeld de tabel in te vullen met weer. Dit is handig voor hem want dan weet hij wanneer hij kan hardlopen.
+Denk buiten de box, verzien iets origineels en voeg wat raars toe. Hierdoor krijg je vaak de beste ideeen. Dit kan ook ter oplossing zijn voor Roger. Ik heb hier niet echt gebruik van gemaakt omdat ik het al lastig vondt om een goed concept voor hem te verzinnen. Hierom heb ik het persoonlijk bij hem gelegd door bijvoorbeeld de tabel in te vullen met weer. Dit is handig voor hem want dan weet hij wanneer hij kan hardlopen.  
 
-
+Van Gemert, V. (z.d.). Exclusive Design. Exclusive Design. Geraadpleegd op 22 april 2021, van https://exclusive-design.vasilis.nl/  
 
 
 

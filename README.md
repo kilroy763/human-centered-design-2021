@@ -69,3 +69,6 @@ Van Gemert, V. (z.d.). Exclusive Design. Exclusive Design. Geraadpleegd op 22 ap
 - [x]  Weer tabel moet te gebruiken zijn
 - [x]  Artikel moet overzichtelijk zijn
 
+## Bronnen
+U2. (2009, 14 december). U2 - One [Video]. YouTube. https://www.youtube.com/watch?v=ftjEcrrf7r0
+
